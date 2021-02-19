@@ -70,6 +70,7 @@
     "url": "heroku/python"
   }],
   "formation": {
+    "stack": "heroku-18",
     "web": {
       "quantity": 1,
       "size": "free"
